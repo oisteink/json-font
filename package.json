@@ -1,0 +1,23 @@
+{
+  "name": "json-font",
+  "version": "1.0.0",
+  "description": "Font package based on BDF that stores fonts as JSON files. Contains converter. Inspired partly by u8g2",
+  "main": "json-font.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oisteink/json-font.git"
+  },
+  "keywords": [
+    "font",
+    "json"
+  ],
+  "author": "Øistein Kjos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oisteink/json-font/issues"
+  },
+  "homepage": "https://github.com/oisteink/json-font#readme"
+}

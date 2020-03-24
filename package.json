@@ -1,6 +1,6 @@
 {
   "name": "json-font",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Font package based on BDF that stores fonts as JSON files. Contains converter. Inspired partly by u8g2",
   "main": "json-font.js",
   "scripts": {

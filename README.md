@@ -7,6 +7,6 @@ Inspired in part by u8g2
 
 usage:
 ```javascript
-const jf = requre(json-font);
+const jf = requre('json-font');
 let font = new jf.json-font('fontname.json');
 ```
